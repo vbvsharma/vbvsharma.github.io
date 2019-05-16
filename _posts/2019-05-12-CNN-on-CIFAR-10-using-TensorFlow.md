@@ -2,6 +2,7 @@
 layout: post
 title: "Build a CNN on CIFAR-10 using TensorFlow"
 categories: misc
+comments: true
 ---
 
 
@@ -413,4 +414,4 @@ These topics will be covered later:
 
 This is a pretty good model (if it is among your first few), but people have achieved around 99% accuracy in this dataset. You can checkout other people's performance on this dataset [here](https://benchmarks.ai/cifar-10).
 
-If you want to work on this model on your system, you can find th code [here](https://github.com/vbvsharma/build-cnn-on-cifar10-using-tensorflow).
+If you want to work on this model on your system, you can find the code [here](https://github.com/vbvsharma/build-cnn-on-cifar10-using-tensorflow).
