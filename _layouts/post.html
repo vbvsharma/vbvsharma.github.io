@@ -13,6 +13,8 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
       {%- endif -%}</p>
+
+      {% include mathjax.html %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
