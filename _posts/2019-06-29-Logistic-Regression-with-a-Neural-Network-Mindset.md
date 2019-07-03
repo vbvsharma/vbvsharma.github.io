@@ -20,7 +20,7 @@ Today we are going to implement logistic regression as a neural network. This is
 
 # The General Architecture of the learning algorithm
 
-Before you get started please check out the **[notation](https://d3c33hcgiwev3.cloudfront.net/_106ac679d8102f2bee614cc67e9e5212_deep-learning-notation.pdf?Expires=1512518400&Signature=DZK13JO29O-sgV8oBeaiFO0eOS5u~DqDAo4xnxdNjnueZJyUQCCDYMOCRTaZOxcZCvgtLZb0Q89ZVHIBDtZ1HbfKGEV8GG-aZ1ban5VnWAlKNqjBnUfxrmHqaavc111CHMz3OIqalaD~qyCy~JlFkuDEVl1Yunlx9SNS2hPrDKA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)** that is being used below.
+Before you get started please check out the **[notation](/assets/docs/2019-06-29-Logistic-Regression-with-a-Neural-Network-Mindset/deep-learning-notation.pdf)** that is being used below.
 The following image explains the architecture of logistic regression as a neural network:
 
 
