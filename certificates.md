@@ -37,6 +37,24 @@ permalink: /certificates/
                              title="Convolutional Neural Networks" 
                              subtitle="deeplearning.ai" -%}
 
+<!-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai on Coursera -->
+{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/SQQS4MFS3BZB\"" 
+                             imageSource="\"/assets/images/cert-course.png\"" 
+                             title="Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" 
+                             subtitle="deeplearning.ai" -%}
+
+<!-- Natural Language Processing in TensorFlow by deeplearning.ai on Coursera -->
+{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/7UBPZ4QBLUQM\"" 
+                             imageSource="\"/assets/images/cert-course.png\"" 
+                             title="Natural Language Processing in TensorFlow" 
+                             subtitle="deeplearning.ai" -%}
+
+<!-- Convolutional Neural Networks in TensorFlow by deeplearning.ai on Coursera -->
+{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/HZ7UQEKCW5G6\"" 
+                             imageSource="\"/assets/images/cert-course.png\"" 
+                             title="Convolutional Neural Networks in TensorFlow" 
+                             subtitle="deeplearning.ai" -%}
+
 <!-- Introduction to Scripting in Python Specialization by Rice University on Coursera -->
 {%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/specialization/GNLQXAH6RDSN\"" 
                              imageSource="\"/assets/images/cert-specialization.png\"" 
