@@ -52,6 +52,12 @@ permalink: /certificates/
                              title="Convolutional Neural Networks" 
                              subtitle="deeplearning.ai" -%}
 
+<!-- Sequence Models by deeplearning.ai on Coursera -->
+{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/certificate/Y6L9UFEZCQ4F\"" 
+                             imageSource="\"/assets/images/cert-course.png\"" 
+                             title="Sequence Models" 
+                             subtitle="deeplearning.ai" -%}
+
 <!-- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning by deeplearning.ai on Coursera -->
 {%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/SQQS4MFS3BZB\"" 
                              imageSource="\"/assets/images/cert-course.png\"" 
