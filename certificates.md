@@ -6,6 +6,21 @@ permalink: /certificates/
 
 # Certificates
 
+<!-- Deep Learning Specialization by deeplearning.ai on Coursera -->
+{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/specialization/certificate/9V3J59V5S7UA\"" 
+                             imageSource="\"/assets/images/cert-specialization.png\"" 
+                             title="Deep Learning Specialization" 
+                             subtitle="deeplearning.ai" -%}
+
+
+<!-- Introduction to Scripting in Python Specialization by Rice University on Coursera -->
+{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/specialization/GNLQXAH6RDSN\"" 
+                             imageSource="\"/assets/images/cert-specialization.png\"" 
+                             title="Introduction to Scripting in Python Specialization" 
+                             subtitle="Rice University" -%}
+
+<br />    
+
 <!-- Machine Learning by Stanford University on Coursera -->
 {%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/FB6L6Q3L3YTZ\"" 
                              imageSource="\"/assets/images/cert-course.png\"" 
@@ -55,12 +70,6 @@ permalink: /certificates/
                              title="Convolutional Neural Networks in TensorFlow" 
                              subtitle="deeplearning.ai" -%}
 
-<!-- Introduction to Scripting in Python Specialization by Rice University on Coursera -->
-{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/specialization/GNLQXAH6RDSN\"" 
-                             imageSource="\"/assets/images/cert-specialization.png\"" 
-                             title="Introduction to Scripting in Python Specialization" 
-                             subtitle="Rice University" -%}
-
 <!-- Python Programming Essentials by Rice University on Coursera -->
 {%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/QW2HSB8PZTYD\"" 
                              imageSource="\"/assets/images/cert-course.png\"" 
@@ -89,10 +98,4 @@ permalink: /certificates/
 {%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/657UPKW79E3E\"" 
                              imageSource="\"/assets/images/cert-course.png\"" 
                              title="Mathematics for Machine Learning: Multivariate Calculus" 
-                             subtitle="Imperial College London" -%}
-
-<!-- Python Data Visualization by Rice University on Coursera -->
-{%- include certificate.html certificateLink="\"https://www.coursera.org/account/accomplishments/verify/P5FHPYU4Y4MY\"" 
-                             imageSource="\"/assets/images/cert-course.png\"" 
-                             title="Mathematics for Machine Learning: Linear Algebra" 
                              subtitle="Imperial College London" -%}
